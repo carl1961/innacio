@@ -1,8 +1,7 @@
-# Innacio
-Innacio é um instalador para o ScadaBR-EF desenvolvido com o Inno Setup.
+Innacio is an installer for ScadaBR-EF developed with Inno Setup.
 
-Se você está procurando pelo arquivo `.exe` do instalador do ScadaBR-EF, consulte os [lançamentos no repositório do ScadaBR-EF](https://github.com/celsou/ScadaBR-EF/releases/latest/).
+If you are looking for the .exe of the ScadaBR-EF installer, see the releases in the ScadaBR-EF repository.
 
-O script principal do instalador (`ScadaBR.iss`) pode ser modificado e adaptado nos termos da licença MIT. Os outros arquivos deste repositório (Tomcat, Builds do ScadaBR, etc) possuem licenças diferentes.
+The main installer script (ScadaBR.iss) can be modified and adapted under the MIT license. The other files in this repository (Tomcat, ScadaBR Builds, etc.) have different licenses.
 
-Sinta-se livre para fazer um _fork_ deste repositório e criar instaladores para suas próprias versões do ScadaBR.
+Feel free to fork this repository and create installers for your own versions of ScadaBR.

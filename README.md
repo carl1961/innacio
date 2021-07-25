@@ -1,3 +1,7 @@
+English Translation of Celsou https://github.com/celsou/innacio
+Translated comments in"
+ScadaBR.iss and README.md
+
 Innacio is an installer for ScadaBR-EF developed with Inno Setup.
 
 If you are looking for the .exe of the ScadaBR-EF installer, see the releases in the ScadaBR-EF repository.
